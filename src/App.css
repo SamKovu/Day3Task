@@ -51,11 +51,19 @@ li{
 }
 
 img{
-  max-height: 200px;
+  max-height: 400px;
   block-size: auto;
 }
 
 #infoDIV{
-  margin-top: 30px;
+  margin-top: 10px;
+  
+}
+
+#info{
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  
   
 }
